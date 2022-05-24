@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JadeWKA
-- 👀 I’m interested in learning more about python and javascript.
+- 👀 I’m interested in learning more about data analytics.
 - 🌱 I’m currently learning C++, Python, Ios development, web development.
-- 💞️ I’m looking to collaborate on more projects in Ios Development.
 - 📫 How to reach me: jade.wk.au@gmail.com
 
 <!---
