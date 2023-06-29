@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JadeWKA
-- 👀 I’m interested in learning more about data analytics.
-- 🌱 I’m currently enhancing my python skills.
-- 📖 I'm focusing on Data Analytics, Machine Learning. And a little bit of UX Design, Web Development and pygame :)
-- 📫 How to reach me: jade.wk.au@gmail.com
+- 👋 Hi, I’m Jade! handle: @JadeWKA
+- 👀 My main focus is Data Analytics and Machine Learning.
+- 🌱 I’m currently a software engineer.
+- 📖 I am learning to utilize Python in different aspects other than Data Science, such as gaming and web app.
+- 📫 How to reach me: jade.wk.au@gmail.com (I am open to collab in mini passion projects!)
 
 <!---
 JadeWKA/JadeWKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
